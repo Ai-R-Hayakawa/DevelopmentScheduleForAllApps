@@ -1,0 +1,19 @@
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+2026年02月27日（金）作業内容
+
+１．下記のリポジトリを新規作成する。
+　（１）DevelopmentScheduleForAllApps
+　　　　全てのアプリの開発スケジュール：Development schedule for all apps
+　（２）資料「担当アプリ開発スケジュール.xlsx」の新規追加。
+        git commit -m "add:資料「担当アプリ開発スケジュール.xlsx」の新規追加"
+
+
+
+
+git commit -m "update:2026年02月27日(金)作業開始"
+git commit -m "update:2026年02月27日(金)作業内容分の更新"
+
+
+
+
+
